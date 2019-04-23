@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.test-width {
+  width: 970px !important;
+  margin-right: 1em;
+}
+
+.login-check-false:after {
+  content: "\2718";
+  float: right;
+  color: red;
+  font-weight: 900;
+}
+
+.login-check-true:after {
+  content: "\2714";
+  float: right;
+  color: green;
+  font-weight: 900;
+}
+
+.login-check {
+  font-size: 90%;
+}

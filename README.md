@@ -1,2 +1,0 @@
-# ReactComponents
-Created with CodeSandbox
